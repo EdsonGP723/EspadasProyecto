@@ -582,10 +582,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2697629844698948061, guid: c35e09184dc0ad84b803814a50558259,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c6d368464181c9499ba3e1273a4dbc2, type: 2}
     - target: {fileID: 919132149155446097, guid: c35e09184dc0ad84b803814a50558259,
         type: 3}
       propertyPath: m_Name
       value: EspadaVampira
       objectReference: {fileID: 0}
+    - target: {fileID: 5065854492318003635, guid: c35e09184dc0ad84b803814a50558259,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c94087d0dfc67484c803a13898c2ac80, type: 2}
+    - target: {fileID: 9024399419443066965, guid: c35e09184dc0ad84b803814a50558259,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0bb9edb2b1030c3468e6fdfe7a83088a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c35e09184dc0ad84b803814a50558259, type: 3}

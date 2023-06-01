@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-5374855769635405458
+--- !u!114 &-554156320397922777
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WhiteMetal
+  m_Name: Rock
   m_Shader: {fileID: -6465566751694194690, guid: b48f0b0e219b3b24dac06dc5c7dc8e6e,
     type: 3}
   m_ValidKeywords: []
@@ -48,10 +48,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Metalic: 0.544
+    - _Metalic: 0.485
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smooth: 0.314
+    - _Smooth: 0.728
     m_Colors:
-    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
+    - _MainColor: {r: 0.3584906, g: 0.17923102, b: 0.03551086, a: 0}
   m_BuildTextureStacks: []

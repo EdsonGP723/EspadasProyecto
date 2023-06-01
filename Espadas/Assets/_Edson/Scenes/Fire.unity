@@ -185,11 +185,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -26.036
       objectReference: {fileID: 0}
+    - target: {fileID: -2697629844698948061, guid: 6f6afac755d098d43b5069636afa8be9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c6d368464181c9499ba3e1273a4dbc2, type: 2}
     - target: {fileID: 919132149155446097, guid: 6f6afac755d098d43b5069636afa8be9,
         type: 3}
       propertyPath: m_Name
       value: EspadaFuego
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: 6f6afac755d098d43b5069636afa8be9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c6d368464181c9499ba3e1273a4dbc2, type: 2}
+    - target: {fileID: 9024399419443066965, guid: 6f6afac755d098d43b5069636afa8be9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c6d368464181c9499ba3e1273a4dbc2, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f6afac755d098d43b5069636afa8be9, type: 3}
 --- !u!4 &98943708 stripped
